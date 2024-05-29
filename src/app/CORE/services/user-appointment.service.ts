@@ -10,7 +10,7 @@ import { IAppointmentRes } from '../interfaces/IAppointment';
 })
 export class UserAppointmentService {
 
-  private baseUrl = 'http://localhost:5500/appointment';
+  private baseUrl = 'https://helpdeskback.onrender.com/appointment';
 
   constructor(private http: HttpClient) { }
 
@@ -25,9 +25,9 @@ export class UserAppointmentService {
     );
   }
 
-  getAppointmentDetails(appointmentId: number): Observable<IAppointmentRes> {
-    return this.http.get<any>(`${this.baseUrl}/details/${appointmentId}`).pipe(
-      map(response => response.data)
-    );
-  }
+getAppointmentDetails(appointmentId: number): Observable<IAppointmentRes> {
+  return this.http.get<any>(`${this.baseUrl}/details/${appointmentId}`).pipe(
+    map(response => response.data)
+  );
+}
 }

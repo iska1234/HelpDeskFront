@@ -54,8 +54,7 @@ export class NewCitaComponent {
   }
 
   private formatDate(rawDate: string): string {
-    const parts = rawDate.split('-');
-    const formattedDate = `${parts[2]}/${parts[1]}/${parts[0]}`;
-    return formattedDate;
+    const [year, month, day] = rawDate.split('-');
+    return `${year}-${month}-${day}`;
   }
 }
