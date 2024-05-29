@@ -1,0 +1,8 @@
+<div *ngIf="appointmentDetails" class="cita-details bg-gray-100 border border-gray-300 rounded p-4">
+  <h2 class="text-lg font-bold mb-2">Detalles de la Cita</h2>
+  <p><strong>ID:</strong> {{ appointmentDetails.id }}</p>
+  <p><strong>Fecha:</strong> {{ formatDate(appointmentDetails.date) }}</p>
+  <p><strong>Especialización:</strong> {{ appointmentDetails.specialization }}</p>
+  <p><strong>Tipo:</strong> {{ appointmentDetails.type }}</p>
+  <p><strong>Observaciones:</strong> {{ appointmentDetails.observations }}</p>
+</div>

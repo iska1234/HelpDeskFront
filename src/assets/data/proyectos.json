@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Proyecto de extracción de oro",
+    "descripcion": "Desarrollo de una mina de oro a cielo abierto.",
+    "fecha_inicio": "2024-01-01",
+    "fecha_fin": "2024-06-30",
+    "estado": "En proceso",
+    "responsable": "John Smith"
+  },
+  {
+    "id": 2,
+    "nombre": "Proyecto de minería de cobre",
+    "descripcion": "Construcción de una mina subterránea para la extracción de cobre.",
+    "fecha_inicio": "2024-06-01",
+    "fecha_fin": "2024-12-31",
+    "estado": "Incompleto",
+    "responsable": "Maria Rodriguez"
+  }
+]

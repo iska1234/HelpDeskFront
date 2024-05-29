@@ -1,0 +1,214 @@
+[
+    {
+        "TaskID": 1,
+        "ProjectID": 1,
+        "TaskName": "Estudio de viabilidad",
+        "StartDate": "01/01/2024",
+        "EndDate": "01/10/2024",
+        "color": "#f2f6c3",
+        "Avance": 50,
+        "estado":"Elaboración",
+        "userId": 1
+    },
+    {
+        "TaskID": 2,
+        "ProjectID": 1,
+        "TaskName": "Adquisición de terrenos",
+        "StartDate": "01/03/2024",
+        "EndDate": "01/11/2024",
+        "color":"#96ead7",
+        "Avance": 20,
+        "estado":"Elaboración",
+        "userId": 1
+
+    },
+    {
+        "TaskID": 3,
+        "ProjectID": 1,
+        "TaskName": "Adquisición de equipo",
+        "StartDate": "01/11/2024",
+        "EndDate": "01/20/2024",
+        "color":"#68c4af",
+        "Avance": 70,
+        "estado":"Elaboración",
+        "userId": 1
+    },
+    {
+        "TaskID": 4,
+        "ProjectID": 1,
+        "TaskName": "Contratación de personal",
+        "StartDate": "01/20/2024",
+        "EndDate": "01/25/2024",
+        "color":"#f7e7b4",
+        "Avance": 50,
+        "estado":"Elaboración",
+        "userId": 1
+
+
+    },
+    {
+      "TaskID": 5,
+      "ProjectID": 1,
+      "TaskName": "Preparación del sitio",
+      "StartDate": "01/22/2024",
+      "EndDate": "01/26/2024",
+      "color":"#b8dbd3",
+      "Avance": 20,
+      "estado":"Elaboración",
+      "userId": 1
+
+
+    },
+    {
+      "TaskID": 6,
+      "ProjectID": 1,
+      "TaskName": "Pruebas de suelo",
+      "StartDate": "01/25/2024",
+      "EndDate": "01/28/2024",
+      "color":"#F2CDA0",
+      "Avance": 70,
+      "estado":"Elaboración",
+      "userId": 1
+    },
+    {
+      "TaskID": 7,
+      "ProjectID": 1,
+      "TaskName": "Permisos ambientales",
+      "StartDate": "01/28/2024",
+      "EndDate": "01/30/2024",
+      "color":"#ffb3ba",
+      "Avance": 80,
+      "estado":"Elaboración",
+      "userId": 1
+    },
+    {
+      "TaskID": 8,
+      "ProjectID": 1,
+      "TaskName": "Compra de maquinaria",
+      "StartDate": "02/01/2024",
+      "EndDate": "02/06/2024",
+      "color":"#85CAAA",
+      "Avance": 80,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 9,
+      "ProjectID": 1,
+      "TaskName": "Contratación de personal",
+      "StartDate": "02/01/2024",
+      "EndDate": "02/07/2024",
+      "color":"#85CAAA",
+      "Avance": 70,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 10,
+      "ProjectID": 1,
+      "TaskName": "Instalación de equipos",
+      "StartDate": "02/05/2024",
+      "EndDate": "02/07/2024",
+      "color":"#c2d5f4",
+      "Avance": 80,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 11,
+      "ProjectID": 1,
+      "TaskName": "Pruebas de operación",
+      "StartDate": "02/05/2024",
+      "EndDate": "02/10/2024",
+      "color":"#85CAAA",
+      "Avance": 50,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 12,
+      "ProjectID": 1,
+      "TaskName": "Capacitación del personal",
+      "StartDate": "02/06/2024",
+      "EndDate": "02/15/2024",
+      "color":"#ffdfba",
+      "Avance": 20,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 13,
+      "ProjectID": 1,
+      "TaskName": "Inicio de operaciones",
+      "StartDate": "02/10/2024",
+      "EndDate": "02/15/2024",
+      "color":"#ffffba",
+      "Avance": 20,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 14,
+      "ProjectID": 1,
+      "TaskName": "Monitoreo ambiental",
+      "StartDate": "02/15/2024",
+      "EndDate": "02/20/2024",
+      "color":"#baffc9",
+      "Avance": 20,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 15,
+      "ProjectID": 1,
+      "TaskName": "Evaluación de impacto ambiental",
+      "StartDate": "02/20/2024",
+      "EndDate": "02/24/2024",
+      "color":"#bae1ff",
+      "Avance": 50,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 16,
+      "ProjectID": 1,
+      "TaskName": "Auditorías de seguridad",
+      "StartDate": "02/25/2024",
+      "EndDate": "02/28/2024",
+      "color":"#fbf8c5",
+      "Avance": 50,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 17,
+      "ProjectID": 1,
+      "TaskName": "Optimización de procesos",
+      "StartDate": "02/01/2024",
+      "EndDate": "03/05/2024",
+      "color":"#f6d089",
+      "Avance": 70,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 18,
+      "ProjectID": 1,
+      "TaskName": "Revisión de presupuesto",
+      "StartDate": "03/02/2024",
+      "EndDate": "03/08/2024",
+      "color":"#f5cda1",
+      "Avance": 80,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 19,
+      "ProjectID": 1,
+      "TaskName": "Informe de progreso",
+      "StartDate": "03/10/2024",
+      "EndDate": "03/15/2024",
+      "color":"#f6c289",
+      "Avance": 90,
+      "estado":"Elaboración"
+    },
+    {
+      "TaskID": 20,
+      "ProjectID": 1,
+      "TaskName": "Cierre del proyecto",
+      "StartDate": "03/15/2024",
+      "EndDate": "03/28/2024",
+      "color":"#95DCC4",
+      "Avance": 100,
+      "estado":"Elaboración"
+    }
+]
